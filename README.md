@@ -184,7 +184,3 @@ Navigate to any lab folder from the web UI.
 | **`Lab_05_Bayesian_Networks_Language_Models/`** | 1st & 2nd Order Markov Autoregressive Models | 6-Sentence Animal Story Corpus | Strict normalization $\sum P = 1.0$ verified; 2nd-order model eliminates grammatical incongruities; proved exponential context sparsity ($|V|^2$). |
 
 ---
-
-## Author & Attribution
-* **Course:** Undergraduate Artificial Intelligence
-* **Framework:** AI Science (Formal Problem Formulation & Mathematical Proofs) + AI Engineering (Modular Code, Automated Test Suites, Empirical Validation).
